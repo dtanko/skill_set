@@ -1,0 +1,31 @@
+.skills{
+    padding: 10px 30px
+}
+.skill_set{
+    background-color:gray;
+    height: 30px;
+}
+.html{
+    width: 95%;
+    background-color: green;
+}
+.css{
+    width: 55%;
+    background-color: aqua;
+}
+.js{
+    width: 5%;
+    background-color: coral;
+}
+.php{
+    width: 0.9%;
+    background-color: darkcyan;
+}
+.python{
+    width: 0.9%;
+    background-color: purple;
+}
+.css p, .html p, .js p, .php p, .python p{
+    padding: 5px 0;
+    text-align: right;
+}
